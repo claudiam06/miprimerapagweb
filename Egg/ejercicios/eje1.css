@@ -1,0 +1,23 @@
+.box{
+    background-color: rgb(244, 186, 235);
+    margin: 1px;
+    padding: 1px;
+    width: 500px;
+    height: 300px;
+}
+.box2 {
+    background-color: rgb(255, 200, 127);
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+}
+.box3 {
+    background-color: rgb(244, 255, 127);
+    margin: .1px;
+    padding: .1px;
+    width: 400px;
+    height: 200px;
+    
+}
+

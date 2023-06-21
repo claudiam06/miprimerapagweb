@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(157, 218, 92);
+}
+@media (max-width: 600px) {
+    body{
+      background-color: rgb(120, 223, 199);
+    }
+  }
+  @media (max-width: 400px) {
+    body{
+      background-color: rgb(215, 145, 191);
+    }
+  }
+ 

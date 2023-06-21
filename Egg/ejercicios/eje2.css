@@ -1,0 +1,27 @@
+.container {
+    background-color: coral;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: darkkhaki;
+    display: flex; /* or inline flex*/
+    flex-direction: column-reverse;
+}
+.container2 {
+    background-color: cornflowerblue;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: darkkhaki;
+    display: flex; /* or inline flex*/
+    flex-direction: column-reverse;
+}
+.container3 {
+    background-color: darkseagreen;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: darkkhaki;
+    display: flex; /* or inline flex*/
+    flex-direction: column-reverse;
+}
